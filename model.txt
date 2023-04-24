@@ -1,0 +1,5 @@
+https://teachablemachine.withgoogle.com/models/OfEhei7JS/model.json
+father
+mother
+nayenika
+brother
